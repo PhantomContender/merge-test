@@ -10,7 +10,7 @@ const calculate = (a, b, op) => {
 };
 
 // Usage:
-console.log(calculate(50, 8, '*')); // 12
-console.log(calculate(500, 3, '-')); // 5
-console.log(calculate(200, 3, '+')); // 5
-console.log(calculate(700, 8, '*')); // 5
+console.log(calculate(30, 8, '*')); // 12
+console.log(calculate(400, 3, '-')); // 5
+console.log(calculate(500, 3, '+')); // 5
+console.log(calculate(600, 8, '*')); // 5
