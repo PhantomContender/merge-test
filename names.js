@@ -19,7 +19,7 @@ if (x > 5) {
 console.log(name.toUpperCase());
 }
 greet ('vulkan')
-greet ('leman')
-greet ('rogal')
-greet ('peterabo')
-greet ('kaidor')
+greet ('lionel')
+greet ('corvus')
+greet ('alpharius')
+greet ('ferrus')
